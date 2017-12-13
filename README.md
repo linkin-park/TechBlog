@@ -7,6 +7,4 @@ Character Stream : A Stream Class , helper util for Lexer to generate tokens.
 https://gist.github.com/linkin-park/f60f36e5e94b76232b2fea66cca43353
 
 The Lexer:
-1. Ignore Whitespace and comments
-2. Return token if its string / number / identifer / punctuation / operator.
-3. Throw error if none of the above
+https://gist.github.com/linkin-park/557d68ac8547451cf71cc079a992f25a
