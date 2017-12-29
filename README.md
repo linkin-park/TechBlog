@@ -15,6 +15,8 @@ The Parser:
 As with help of Lexer we can generate AST nodes based on the grammar of our language.
 
 ### References
+* [Lexer vs Parser](https://www.quora.com/What-is-the-difference-between-a-lexer-and-a-parser)
+* [More](https://medium.freecodecamp.org/the-programming-language-pipeline-91d3f449c919)
 * [Expression vs Statement](http://2ality.com/2012/09/expressions-vs-statements.html)
 * [Return](https://en.wikipedia.org/wiki/Return_statement)
 
