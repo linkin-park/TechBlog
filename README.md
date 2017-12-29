@@ -12,7 +12,7 @@ The Lexer:
 https://gist.github.com/linkin-park/557d68ac8547451cf71cc079a992f25a
 
 The Parser:
-As with helper Lexer we can generate AST nodes based on the grammar.
+As with help of Lexer we can generate AST nodes based on the grammar of our language.
 
 ### References
 * [Expression vs Statement](http://2ality.com/2012/09/expressions-vs-statements.html)
